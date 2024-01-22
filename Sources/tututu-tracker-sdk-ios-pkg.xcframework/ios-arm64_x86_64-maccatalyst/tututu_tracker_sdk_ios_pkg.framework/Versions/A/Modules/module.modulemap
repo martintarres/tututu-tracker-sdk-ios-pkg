@@ -1,0 +1,11 @@
+framework module tututu_tracker_sdk_ios_pkg {
+  umbrella header "tututu_tracker_sdk_ios_pkg.h"
+  export *
+
+  module * { export * }
+}
+
+module tututu_tracker_sdk_ios_pkg.Swift {
+  header "tututu_tracker_sdk_ios_pkg-Swift.h"
+  requires objc
+}

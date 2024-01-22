@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseURL</key>
+	<string>https://bephp-stage.tututu.app/api/v1</string>
+	<key>JWTPublicKey</key>
+	<string>7ousgDHMOZeWcth41qAYaIgF5EwgfwYS</string>
+	<key>EventHubURL</key>
+	<string>https://backendnodeeventhub.servicebus.windows.net/backendnodeeventhub-staging</string>
+	<key>MSAppCenterKey</key>
+	<string>ec2c07fb-e9f9-4c73-923a-6b224b9c9bcb</string>
+	<key>MSAppCenterAppName</key>
+	<string>Tu-Tutu-2</string>
+	<key>RestoreData</key>
+	<false/>
+	<key>EnvName</key>
+	<string>Stage</string>
+	<key>ConfigName</key>
+	<string>Debug-Stage</string>
+	<key>GoogleMapsKey</key>
+	<string>AIzaSyDOPMs_BL1oPDuAfS8r3ue809wENepq8IU</string>
+	<key>SignupURL</key>
+	<string>https://tst.lacaja.com.ar/retail/Retail/Transaccion/LoginPocCrearCuentaInit.trx</string>
+	<key>TermsUrl</key>
+	<string>https://seguros.lacaja.com.ar/personas/politica-de-privacidad-autoconectado</string>
+	<key>SendLogs</key>
+	<true/>
+	<key>BreakReportLevel</key>
+	<string>medium</string>
+	<key>PrivacyURL</key>
+	<string>https://seguros.lacaja.com.ar/personas/politicas-de-privacidad-de-la-aplicacion-auto-conectado</string>
+	<key>DiscardManualTrips</key>
+	<false/>
+	<key>AssistanceURL</key>
+	<string>https://wapp.geo-assist.com.ar/?lacaja</string>
+</dict>
+</plist>
