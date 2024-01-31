@@ -35,6 +35,36 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "MessageUI",
+        "printedName": "MessageUI",
+        "declKind": "Import",
+        "moduleName": "tututu_tracker_sdk_ios_pkg",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ZIPFoundation",
+        "printedName": "ZIPFoundation",
+        "declKind": "Import",
+        "moduleName": "tututu_tracker_sdk_ios_pkg",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "tututu_tracker_sdk_ios_pkg",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "SDK",
         "printedName": "SDK",
@@ -119,6 +149,27 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sendLogs",
+            "printedName": "sendLogs()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:26tututu_tracker_sdk_ios_pkg3SDKV8sendLogsyyFZ",
+            "mangledName": "$s26tututu_tracker_sdk_ios_pkg3SDKV8sendLogsyyFZ",
+            "moduleName": "tututu_tracker_sdk_ios_pkg",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",
@@ -136,37 +187,114 @@
     {
       "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
       "kind": "StringLiteral",
-      "offset": 1082,
+      "offset": 1494,
       "length": 37,
       "value": "\"https:\/\/bephp-dev.tututu.app\/api\/v1\""
     },
     {
       "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
       "kind": "StringLiteral",
-      "offset": 1147,
+      "offset": 1559,
       "length": 34,
       "value": "\"7ousgDHMOZeWcth41qAYaIgF5EwgfwYS\""
     },
     {
       "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
       "kind": "StringLiteral",
-      "offset": 1446,
+      "offset": 1858,
       "length": 6,
       "value": "\"Prod\""
     },
     {
       "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
       "kind": "StringLiteral",
-      "offset": 1474,
+      "offset": 1886,
       "length": 9,
       "value": "\"Release\""
     },
     {
       "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
       "kind": "StringLiteral",
-      "offset": 1676,
+      "offset": 2088,
       "length": 9,
       "value": "\"success\""
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "StringLiteral",
+      "offset": 2615,
+      "length": 14,
+      "value": "\"Tu Tutu Logs\""
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "StringLiteral",
+      "offset": 2796,
+      "length": 18,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "StringLiteral",
+      "offset": 2813,
+      "length": 17,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2824,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3013,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "StringLiteral",
+      "offset": 3105,
+      "length": 6,
+      "value": "\"Logs\""
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "StringLiteral",
+      "offset": 3201,
+      "length": 10,
+      "value": "\"logs.zip\""
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "StringLiteral",
+      "offset": 3733,
+      "length": 12,
+      "value": "\"text\/plain\""
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3882,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "StringLiteral",
+      "offset": 3973,
+      "length": 28,
+      "value": "\"Unable to attach log files\""
+    },
+    {
+      "filePath": "\/Users\/martintarres\/Documents\/proyectosiOS\/tututu-tracker-sdk-ios-pkg\/tututu-tracker-sdk-ios-pkg\/Sdk.swift",
+      "kind": "StringLiteral",
+      "offset": 4088,
+      "length": 77,
+      "value": "\"Email is not configured in settings app or we are not able to send an email\""
     }
   ]
 }

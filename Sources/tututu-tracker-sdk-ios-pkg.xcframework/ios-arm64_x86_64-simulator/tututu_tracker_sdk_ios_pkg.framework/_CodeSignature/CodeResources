@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TtRXv+BgFkQ8jlfpS6Z8MU3ypM0=
+		Y+PmUc3QvbmOTnmGMukpExgP+LU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -34,43 +34,43 @@
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		l8ncoMx5fEPQNO/vrPNOSJrerqs=
+		O+zD2nCDHayLeY8ZX3hFgZf/7Y0=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		4d9TSjX39o/nB3cX/IknaluepBM=
+		Gd+ySyPhHueMK/pC/NBVXHXZ8Jg=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TlFQjUzYv54sLQt+u5e+RrbrzMA=
+		kajdrO4BdZjiSjVn96UgS+bC2FI=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		4d9TSjX39o/nB3cX/IknaluepBM=
+		Gd+ySyPhHueMK/pC/NBVXHXZ8Jg=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		em5aC19IlK7kgBSnyrFt7cBZxHE=
+		SwjlakX8c+6iKPxl0iwTSlWEOp0=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		l8ncoMx5fEPQNO/vrPNOSJrerqs=
+		O+zD2nCDHayLeY8ZX3hFgZf/7Y0=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		NPMuItJSzEP8Bs7aw4sGEtcvo4I=
+		PsbxPwBu+Svzg6PcQAnlm8Djuf8=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		zSCLvM0jdtI/po8nh59lkuALB18=
+		FVlTFIzfJdUVnClD1VNm8dcYO2s=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NPMuItJSzEP8Bs7aw4sGEtcvo4I=
+		PsbxPwBu+Svzg6PcQAnlm8Djuf8=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HT4hg9WSKbxwjvnUr0NhbU30Vu0=
+		iasNERRBfrEqdJ0JiTD3MIOrVdU=
 		</data>
 		<key>Release_Dev_Environment.plist</key>
 		<data>
@@ -173,70 +173,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aTJ5p87yYaJdbWzPFRttH4A/rlKxMPpXkRCWnkI8knY=
+			AvZptNBjldmlDAa6+1khXvXxhdSYQ5ytig9ID3UnqGY=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aIedvZs1gT4YLbktSny30IwZlWjdrcz9WU24Uz2lUns=
+			ns+NFYv96g/XNKSoj3VAK3M5uNqaqa3/clriQ+iCcyI=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bzOHfdpN8KHMRhRe5IiY0mfNfiAoOKk/Qs6IlkHQBYg=
+			YQuB+PMxHFYd+33/feZTFONPthl3a4sKC6lQrvnS788=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aIedvZs1gT4YLbktSny30IwZlWjdrcz9WU24Uz2lUns=
+			ns+NFYv96g/XNKSoj3VAK3M5uNqaqa3/clriQ+iCcyI=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2HPkHyKGYUbfeHgYm/zBo9WxJpTkYwPHWP/U0saqAo=
+			mHLpfC2VEW0xKyyGCyheayjoqpKuG3ESRszPtn8a4qU=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aTJ5p87yYaJdbWzPFRttH4A/rlKxMPpXkRCWnkI8knY=
+			AvZptNBjldmlDAa6+1khXvXxhdSYQ5ytig9ID3UnqGY=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vOXmt7M54AgEhCuzqolZSmRFfucPRaRD5bNKTcnoZNA=
+			ezlPC/J2lzBzVi3eKhr6JZOwPaVWvTdRGCi8FKraqKI=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R+3zScHNGaCeLTBWo3W1OUJIoo9mo0lusIOSe7zN7Dk=
+			JwzuRzB43/uSZf+PCpgEjtKiKi/cqABzdvRsAILnUg8=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vOXmt7M54AgEhCuzqolZSmRFfucPRaRD5bNKTcnoZNA=
+			ezlPC/J2lzBzVi3eKhr6JZOwPaVWvTdRGCi8FKraqKI=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gh5/jUqt9nvM11vYb9MJaugOmMYRv4Xh9o8gkApPqCk=
+			DkOxy0hawyzN/mc5lUSjyURGnpXUowWNpQsOiZRqFBs=
 			</data>
 		</dict>
 		<key>Release_Dev_Environment.plist</key>

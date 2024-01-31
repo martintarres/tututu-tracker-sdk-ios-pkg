@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		BTj/CXAUrzJRh5zXPKmqZNOSZ6Y=
+		951e+yZMzk5XgY8eVkTtgpgHYWA=
 		</data>
 		<key>Resources/Release_Dev_Environment.plist</key>
 		<data>
@@ -100,70 +100,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aTJ5p87yYaJdbWzPFRttH4A/rlKxMPpXkRCWnkI8knY=
+			AvZptNBjldmlDAa6+1khXvXxhdSYQ5ytig9ID3UnqGY=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lN/hVRcrkxNHD0jpNbcnPmcQfGiQxHBT6iqxJfgAUk0=
+			sQVwataOhKO2awlJ2OLA7wVCUV0GjFN5czA4ZTjdjTQ=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yRV0jtLJxUbGPr/njvsJFpnecYC3jZ5ZRvcqnG6mke0=
+			nTFQMRZaOJw44beZr2utqQ+gPMbsnK2xSXKqboavwNU=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lN/hVRcrkxNHD0jpNbcnPmcQfGiQxHBT6iqxJfgAUk0=
+			sQVwataOhKO2awlJ2OLA7wVCUV0GjFN5czA4ZTjdjTQ=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jZoWMarIi6KWJkuqsn+eeTlrAIdSTMULuTRyHrT2E5M=
+			qUwlMtzY+0tr4EYaKXOpk3wuY8qBRd/xbdfZ6b4V3oA=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aTJ5p87yYaJdbWzPFRttH4A/rlKxMPpXkRCWnkI8knY=
+			AvZptNBjldmlDAa6+1khXvXxhdSYQ5ytig9ID3UnqGY=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h0LcaLe7nKRzzFv0KwH4dnREcViiZDZxIdmYkYrFvS4=
+			T1fhfx39TyROFZ5fedqur2G1PaM1qXmFD4oXgTvmhjE=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8mQ2kRj3BimWSNfSLkns1wXCUowpmrR7aHvN2F40i9g=
+			Ej64Tx8/0OcU2vwtf85Yhp5fAi641niVu/1hRXs38UQ=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h0LcaLe7nKRzzFv0KwH4dnREcViiZDZxIdmYkYrFvS4=
+			T1fhfx39TyROFZ5fedqur2G1PaM1qXmFD4oXgTvmhjE=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YsU8NYFhljFL3okpyuEGa3FcfNQVk2wCUpRav72yZeA=
+			auaoqH2Tan67IDaQtdr5fb0YhU41uM3xNITJR0WqVag=
 			</data>
 		</dict>
 		<key>Resources/Debug_Dev_Environment.plist</key>
@@ -191,7 +191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y577SoOtLlXbKmHdD0YWk2bbmfZGnEA1A6nSMTXCwJI=
+			JJ5s+CDXQPhX8+1YTvAEpWn3KiHO+EgcuHr7n9x6h68=
 			</data>
 		</dict>
 		<key>Resources/Release_Dev_Environment.plist</key>

@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ipaz5HmiK6/y9E+rb262OrC7Dss=
+		D9ODIlmxJ90awdnV4oTHgs5kZpo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -34,23 +34,23 @@
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		l8ncoMx5fEPQNO/vrPNOSJrerqs=
+		O+zD2nCDHayLeY8ZX3hFgZf/7Y0=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		52phRTXzx2Xg1U2lcAFS0CXcN/o=
+		nhkAVhGVg/sJFvrpmEoRon5SMsU=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		wkucq1Fm0n07GF3edGdtQJlFbgI=
+		UJDOk7oa1spXPzGpzGmvm4WFsyU=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		52phRTXzx2Xg1U2lcAFS0CXcN/o=
+		nhkAVhGVg/sJFvrpmEoRon5SMsU=
 		</data>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ilbJsNiXqS77awJlTiPbo03fQVk=
+		hYM6LPGnBqUPxlEnHylndBUUMWo=
 		</data>
 		<key>Release_Dev_Environment.plist</key>
 		<data>
@@ -153,35 +153,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aTJ5p87yYaJdbWzPFRttH4A/rlKxMPpXkRCWnkI8knY=
+			AvZptNBjldmlDAa6+1khXvXxhdSYQ5ytig9ID3UnqGY=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o5QTZW34rXMQF9tv0qTjbhF2wbegQ1sZM5zOxFusegM=
+			hAJvvLyb8ECcwR/y9kWeLPzL0if7Twi9fiItekwq8OE=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8ZbQ+SKu8k3WDSmK6lKHpfffUKbuGD38i0q4musfd9o=
+			F6yORLMymimyEhth+r0WlS3rt8dm+8+0LVYsNp+iTJI=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o5QTZW34rXMQF9tv0qTjbhF2wbegQ1sZM5zOxFusegM=
+			hAJvvLyb8ECcwR/y9kWeLPzL0if7Twi9fiItekwq8OE=
 			</data>
 		</dict>
 		<key>Modules/tututu_tracker_sdk_ios_pkg.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fX4jYJvW4XOwuEGVdJT47crFgrTLEZIAF6h8IxtCmDU=
+			aT2ox7Ta8t6TMrkwfTYOld1hQWCUZSnBeBZQ+cQdOd0=
 			</data>
 		</dict>
 		<key>Release_Dev_Environment.plist</key>
